@@ -7,7 +7,7 @@
  - Arquitetura e Desenvolvimento Java
  - Desenvolvimento de aplicações moveis hibridas.
 
-<img alt="Night Coding" src="https://github.com/jfgromano/files/blob/main/Night-Coding.gif?raw=true" align="right"/>
+<img alt="Night Coding" src="https://github.com/jfgromano/jfgromano/blob/main/Night-Coding.gif?raw=true" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
