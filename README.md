@@ -1,7 +1,11 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Gosto de explorar novas tecnologias e resolver problemas
-🎓 &nbsp;Sou formado em Administração, porém, trabalho como desenvolvedor desde 2018, atualmente fazendo 3 pos graduações: desenvolvimento de sistemas web, Arquitetura e Desenvolvimento Java e Desenvolvimento de aplicações moveis hibridas.
+💡 Gosto de explorar novas tecnologias e resolver problemas
+
+🎓 Sou formado em Administração, porém, trabalho como desenvolvedor desde 2018, atualmente fazendo 3 pos graduações: 
+ - Desenvolvimento de sistemas web
+ - Arquitetura e Desenvolvimento Java
+ - Desenvolvimento de aplicações moveis hibridas.
 
 <img alt="Night Coding" src="https://github.com/jfgromano/files/blob/main/Night-Coding.gif?raw=true" align="right"/>
 
